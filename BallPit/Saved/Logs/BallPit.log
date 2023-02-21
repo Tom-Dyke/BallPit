@@ -1393,3 +1393,25 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.20-23.19.48:017][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 756 ms)
 [2023.02.20-23.19.48:025][738]AssetCheck: New page: Asset Save: StartGameLevel
 [2023.02.20-23.19.48:025][738]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/StartGameLevel.StartGameLevel
+[2023.02.20-23.29.47:149][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.20-23.29.47:150][873]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/StartGameLevel' took 0.056
+[2023.02.20-23.29.47:151][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Nugget/nugget] ([1] browsable assets)...
+[2023.02.20-23.29.47:212][873]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/Nugget/nugget.nugget]
+[2023.02.20-23.29.47:212][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Nugget/nugget]
+[2023.02.20-23.29.47:212][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Nugget/nugget" FILE="../../../../../../BallPit/BallPit/Saved/Autosaves/Game/Objects/Nugget/nugget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.20-23.29.47:238][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Objects/Nugget/nugget_Auto2
+[2023.02.20-23.29.47:238][873]LogSavePackage: Moving '../../../../../../BallPit/BallPit/Saved/nugget_Auto2E6070AE0403DAACD1C7E0A99F08DE839.tmp' to '../../../../../../BallPit/BallPit/Saved/Autosaves/Game/Objects/Nugget/nugget_Auto2.uasset'
+[2023.02.20-23.29.47:239][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Nugget/nugget1] ([1] browsable assets)...
+[2023.02.20-23.29.47:240][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects/Nugget/nugget1.nugget1]
+[2023.02.20-23.29.47:240][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Nugget/nugget1]
+[2023.02.20-23.29.47:240][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Nugget/nugget1" FILE="../../../../../../BallPit/BallPit/Saved/Autosaves/Game/Objects/Nugget/nugget1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.20-23.29.47:243][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Objects/Nugget/nugget1_Auto2
+[2023.02.20-23.29.47:243][873]LogSavePackage: Moving '../../../../../../BallPit/BallPit/Saved/nugget1_Auto2600285CF46C47213AF49D6A53D66600C.tmp' to '../../../../../../BallPit/BallPit/Saved/Autosaves/Game/Objects/Nugget/nugget1_Auto2.uasset'
+[2023.02.20-23.29.47:244][873]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Nugget/nugget_34] ([1] browsable assets)...
+[2023.02.20-23.29.47:246][873]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects/Nugget/nugget_34.nugget_34]
+[2023.02.20-23.29.47:246][873]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Nugget/nugget_34]
+[2023.02.20-23.29.47:246][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Nugget/nugget_34" FILE="../../../../../../BallPit/BallPit/Saved/Autosaves/Game/Objects/Nugget/nugget_34_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.20-23.29.47:248][873]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Objects/Nugget/nugget_34_Auto2
+[2023.02.20-23.29.47:248][873]LogSavePackage: Moving '../../../../../../BallPit/BallPit/Saved/nugget_34_Auto2E2D69E534FF3EE42442C68AD6B522C6E.tmp' to '../../../../../../BallPit/BallPit/Saved/Autosaves/Game/Objects/Nugget/nugget_34_Auto2.uasset'
+[2023.02.20-23.29.47:249][873]LogFileHelpers: Auto-saving content packages took 0.099
+[2023.02.20-23.45.32:348][703]LogDerivedDataCache: C:/Users/Jenny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.466 and deleted 0 files with total size 0 MiB. Scanned 12279 files in 7035 folders with total size 3004 MiB.
