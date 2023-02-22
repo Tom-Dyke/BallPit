@@ -1,1 +1,6 @@
-[0216/173728.410:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0222/194011.682:ERROR:block_files.cc(465)] Failed to open C:/Unreal Projects/UE5 Projects/Ball Pit/BallPit/Saved/webcache_4430\Cache\data_3
+[0222/194011.684:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0222/194011.684:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Unreal Projects/UE5 Projects/Ball Pit/BallPit/Saved/webcache_4430\Cache to C:/Unreal Projects/UE5 Projects/Ball Pit/BallPit/Saved/webcache_4430\old_Cache_000
+[0222/194011.684:ERROR:disk_cache.cc(184)] Unable to create cache
+[0222/194014.099:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0222/194208.738:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
